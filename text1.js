@@ -36,3 +36,8 @@ const sum = function(a,b){
     return a+b;
 }
 console.log(sum(10,20));
+
+
+function sampleeeee(){
+    console.log('its a sample functions.............');
+}
